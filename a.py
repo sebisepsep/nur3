@@ -49,7 +49,7 @@ def golden(f,mini,mid,maxi,acc):
 
         #step 4
         #tighten towads b
-        if f(d) > f(mid): #würde sich ein else nur auf das letzte if beziehnen?
+        if f(d) > f(mid): #wrde sich ein else nur auf das letzte if beziehnen?
             if mid < d < maxi:
                 maxi = d
 
