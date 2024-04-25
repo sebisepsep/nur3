@@ -12,7 +12,7 @@ echo "a"
 python3 a.py
 
 echo "b" 
-python3 b.py
+python3 b_ref.py
 
 echo "c" 
 python3 c.py
